@@ -1,0 +1,8 @@
+# Python 3.10-3.12
+torch==2.9.*
+torchaudio==2.9.*
+speechbrain==1.1.*
+soundfile>=0.12
+numpy
+pandas
+gradio>=5,<6
